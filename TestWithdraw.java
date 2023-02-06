@@ -11,3 +11,16 @@ public class TestWithdraw {
             }.start();
       }
 }
+
+
+/*
+Output :
+
+going to withdraw...
+Less balance; waiting for deposit...
+going to deposit...
+deposit completed... 
+withdraw completed...
+
+
+*/
